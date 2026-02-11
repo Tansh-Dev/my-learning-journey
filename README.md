@@ -17,6 +17,6 @@
 * **Documentation:** Markdown 📝
 
 ### 📂 Repository Structure
-* `/AWS`: Deep dives into specific Amazon Web Services.
+* `/DevOps`: Deep dives into specific Amazon Web Services.
 * `/Cloud-Concepts`: General cloud theory (IaaS, PaaS, SaaS).
 * `/Resources`: Links to courses, documentation, and cheat sheets.
