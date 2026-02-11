@@ -7,10 +7,9 @@
 ---
 
 ### 🎯 Learning Objectives
-- [x] Learn how to use **Git** for version control effectively.
-- [ ] Master AWS Core Services (EC2, S3, IAM, VPC, RDS).
-- [ ] Understand Cloud Architecture patterns (Scalability, Availability).
-- [ ] Earn the **AWS Certified Cloud Practitioner** certification.
+* **Master AWS Core Services (EC2, S3, IAM, VPC, RDS).**
+* **Understand Cloud Architecture patterns (Scalability, Availability).**
+* **Earn the **AWS Certified Cloud Practitioner** certification.**
 
 ### 🛠️ Tech Stack & Tools
 * **Cloud Platform:** AWS ☁️
