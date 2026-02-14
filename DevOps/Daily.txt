@@ -1,3 +1,5 @@
+13/02/2026
 1. Installed last version of Git and Bash on Visual Studio Code and macOS Terminal
-2. Understood basic concepts of Docker and installed 
+2. Understood basic concepts of Docker and installed(yesterday I haven't installed Docker yet,because I forgot my Mac at Work)
 3. Learning basics of Linux Shell 
+14/02/2026
