@@ -3,3 +3,5 @@
 2. Understood basic concepts of Docker and installed(yesterday I haven't installed Docker yet,because I forgot my Mac at Work)
 3. Learning basics of Linux Shell 
 14/02/2026
+1. Installed last version of Docker and ran the container
+15/02/2026 
