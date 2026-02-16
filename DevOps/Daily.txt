@@ -5,3 +5,4 @@
 14/02/2026
 1. Installed last version of Docker and ran the container
 15/02/2026 
+1. Learned basics of Docker(images and containers) 
