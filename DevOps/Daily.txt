@@ -6,3 +6,5 @@
 1. Installed last version of Docker and ran the container
 15/02/2026 
 1. Learned basics of Docker(images and containers) 
+17/02/2026
+1. Learning Docker Advanced course(Docker Compose)
