@@ -10,3 +10,6 @@
 1. Learning Docker Advanced course(Docker Compose)
 2. Syntax of YAML file
 3. DockerHub servers, databases
+18/02/2026
+1. Run Docker Compose
+2. Create an image from Dockerfile
