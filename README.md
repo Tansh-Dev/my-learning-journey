@@ -1,4 +1,4 @@
-ы# 📚 My Learning Journey: Cloud & AWS
+### 📚 My Learning Journey: Cloud & AWS
 
 > "The expert in anything was once a beginner."
 > 
