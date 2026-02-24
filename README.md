@@ -1,4 +1,4 @@
-# 📚 My Learning Journey: Cloud & AWS
+### 📚 My Learning Journey: Cloud & AWS
 
 > "The expert in anything was once a beginner."
 > 
@@ -21,4 +21,3 @@
 * `/Cloud-Concepts`: General cloud theory (IaaS, PaaS, SaaS).
 * `/Resources`: Links to courses, documentation, and cheat sheets.
 
-Let's check it!
