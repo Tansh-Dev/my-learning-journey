@@ -13,3 +13,6 @@
 18/02/2026
 1. Run Docker Compose
 2. Create an image from Dockerfile
+24/02/2024
+1. Learning basics of networking
+2. Leraning Services(Proxy,Nginx and etc)
