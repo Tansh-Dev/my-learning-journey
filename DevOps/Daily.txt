@@ -15,7 +15,9 @@
 2. Create an image from Dockerfile
 24/02/2024
 1. Learning basics of networking
-2. Learning Services(Proxy,Nginx and etc)
+2. Learning Servers(Proxy,Nginx and etc)
 25/02/2026
 1. Installed Cisco Packet Tracer 
 2. Started Learning AWS
+26/02/2026
+1. Learning Network Servers(DNS,DHCP,HTTP/HTTPS)
