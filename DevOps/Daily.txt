@@ -35,3 +35,5 @@ Day off
 1. Learning Skill Builder
 06/03/2026
 1. Ended Module 1(AWS Skill Builder)
+07/03/2026
+1. EC2 Instance Types
