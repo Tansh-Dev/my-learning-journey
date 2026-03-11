@@ -39,3 +39,5 @@ Day off
 1. EC2 Instance Types
 10/03/2026
 1. AWS Pricing and Scaling
+11/03/2026
+1. AWS Scaling and Provisining 
