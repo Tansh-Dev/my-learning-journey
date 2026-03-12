@@ -41,3 +41,5 @@ Day off
 1. AWS Pricing and Scaling
 11/03/2026
 1. AWS Scaling and Provisining 
+12/03/2026
+1. Bash Scripting
