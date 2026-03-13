@@ -43,3 +43,5 @@ Day off
 1. AWS Scaling and Provisining 
 12/03/2026
 1. Bash Scripting
+13/03/2026
+1. Basic commands like(ls,cp,rm,echo)
