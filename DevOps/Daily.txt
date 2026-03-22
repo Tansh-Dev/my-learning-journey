@@ -47,3 +47,4 @@ Day off
 1. Basic commands like(ls,cp,rm,echo)
 15/03/2026
 1. Day off
+Vacation
